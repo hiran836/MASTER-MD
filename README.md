@@ -53,6 +53,9 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rushmaster12/MASTER-MD)
 
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
+
  **4.  Deploy to RENDER ↓**
 
 <a href="https://dashboard.render.com/" target="blank"><img align="center" src="https://cdn.ironman.my.id/i/5b21iy.jpg" width="100" height="40" alt="Deploy bot"/></a>
