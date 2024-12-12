@@ -177,18 +177,8 @@ jobs:
 <br>
 ---
 
-
 ### CREATED BY:
 1. ### RUSH MASTER 
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
