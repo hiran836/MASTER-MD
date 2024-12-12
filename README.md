@@ -100,7 +100,8 @@
 <br>
 
 **6. Railway ↓**
-
+<div align="left">
+    <p align="left">
 **1. Create account on Railway↓**
    <div align="left">
     <p align="left">
