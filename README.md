@@ -8,6 +8,7 @@
     <br>
 <a href="https://github.com/Rushmaster12/MASTER-MD/fork"><img title="MASTER-MD" src="https://img.shields.io/badge/FORK MASTER-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
+
 </a>
     <br>
     <a href="https://github.com/Rushmaster12?tab=followers">
@@ -24,15 +25,13 @@
     </a>
 </div>
 
-![forks](https://img.shields.io/github/forks/Rushmaster12/MASTER-MD?label=Forks&style=social)
-
-![stars](https://img.shields.io/github/stars/Rushmaster12/MASTER-MD?style=social)
-
 
 
 
 <br>
-• Best and fast whatsapp bot
+
+> *Best and fast whatsapp bot*
+
 <br>
 
   <p align="center">  
