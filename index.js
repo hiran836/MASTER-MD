@@ -39,7 +39,7 @@ const port = process.env.PORT || 8000;
 //=============================================
 
 async function connectToWA() {
-console.log("𝐂𝚯𝚴𝚴𝚵𝐂𝚻𝚰𝚴𝐆 𝚳𝚫𝐒𝚻𝚵𝚪 𝚳𝐃 𝚩𝚯𝚻🚀⏳...");
+console.log("Connecting master md 🚀⏳...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
