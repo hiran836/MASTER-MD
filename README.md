@@ -6,7 +6,8 @@
 ---
 1. Fork The Repo
     <br>
-<a href="https://github.com/Rushmaster12/MASTER-MD/fork"><img title="MASTER-MD" src="https://img.shields.io/badge/FORK MASTER-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+
+ <a href="https://github.com/Rushmaster12/MASTER-MD/fork"><img title="MASTER-MD" src="https://img.shields.io/badge/FORK MASTER-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
 </a>
