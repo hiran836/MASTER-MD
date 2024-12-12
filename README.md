@@ -63,7 +63,7 @@
 
 <div align="left">
     <p align="left">
-        <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/Rushmaster12/MASTERMD&branch=main&name=master-md&builder=dockerfile&env[OWNERS]=917020728211%3B%E2%9D%A3%EF%B8%8FRUSH-MASTER&env[MODE]=public&env[PREFIX]=.&env[BOT_NAME]=MASTER-MD&env[STATUSVIEW]=false&env[SESSION_ID]=">
+        <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/Rushmaster12/MASTER-MD&branch=main&name=master-md&builder=dockerfile&env[OWNERS]=917020728211%3B%E2%9D%A3%EF%B8%8FRUSH-MASTER&env[MODE]=public&env[PREFIX]=.&env[BOT_NAME]=MASTER-MD&env[STATUSVIEW]=false&env[SESSION_ID]=">
             <img src="https://www.koyeb.com/static/images/deploy/button.svg" height="45"/>
         </a>
  
