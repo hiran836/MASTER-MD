@@ -5,8 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F20C39F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=MASTER+MD;MADE+BY+RUSH+MASTER" alt="Typing SVG" 
 ---
 1. Fork The Repo
-    <br>
-
+      <br>
  <a href="https://github.com/Rushmaster12/MASTER-MD/fork"><img title="MASTER-MD" src="https://img.shields.io/badge/FORK MASTER-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
@@ -27,8 +26,6 @@
 </div>
 
 
-
-
 <br>
 
 > *Best and fast whatsapp bot*
@@ -42,7 +39,6 @@
     
    Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 
 
 ---
@@ -63,6 +59,7 @@
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>   
 ---
+
 
  **2.  Deploy To Replit**
 
@@ -148,6 +145,7 @@ jobs:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
 
+
 ## CREDITS 
 # `Owner👑`
 
@@ -159,6 +157,7 @@ jobs:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
 ---
+
 
 ### CREATED BY:
 1. ### RUSH MASTER 
