@@ -180,7 +180,7 @@ jobs:
  
 ## WHATSAPP CHANNLE 👇
  <p align="left">
-<a href='https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S' target="_blank"><img alt='WhatsApp Channel' src='https://img.shields.io/badge/-WhatsApp Channel-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=45/p></a>
+<a href='https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S' target="_blank"><img alt='WhatsApp Channel' src='https://img.shields.io/badge/-WhatsApp Channel-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=130 height=45/p></a>
 
 
 
