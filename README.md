@@ -22,8 +22,7 @@
   <p align="center">  
   <a href="https://cdn.ironman.my.id/i/5b21iy.jpg">
     <img alt="master-md" height="600" src="https://cdn.ironman.my.id/i/5b21iy.jpg">
-
-    <h1 align="center" style="font-family: 'Arial', sans-serif; color: #1a73e8;">𝑷𝑹𝑰𝑵𝑪𝑬-𝑴𝑫-𝑩𝑶𝑻</h1>
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #1a73e8;">𝑷𝑹𝑰𝑵𝑪𝑬-𝑴𝑫-𝑩𝑶𝑻</h1>
     
    Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
