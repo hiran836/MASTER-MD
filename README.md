@@ -176,10 +176,10 @@ jobs:
 
 
 ## MY YT CHANNEL
-
+<p align="left">
 [![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@malvintech2) 
  
- ### WHATSAPP CHANNLE 👇
+## WHATSAPP CHANNLE 👇
  <p align="left">
 <a href='https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z' target="_blank"><img alt='WhatsApp Channel' src='https://img.shields.io/badge/-WhatsApp Channel-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
 
