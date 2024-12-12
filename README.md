@@ -10,17 +10,17 @@
 
 </a>
     <br>
-    <a href="https://github.com/DASTAGHIR?tab=followers">
-        <img title="Followers" src="https://img.shields.io/github/followers/DASTAGHIR?label=Followers&style=social">
+    <a href="https://github.com/Rushmaster12?tab=followers">
+        <img title="Followers" src="https://img.shields.io/github/followers/Rushmaster12?label=Followers&style=social">
     </a>
-    <a href="https://github.com/DASTAGHIR/PRINCEMD/stargazers/">
-        <img title="Stars" src="https://img.shields.io/github/stars/DASTAGHIR/PRINCEMD?style=social">
+    <a href="https://github.com/Rushmaster12/MASTER-MD/stargazers/">
+        <img title="Stars" src="https://img.shields.io/github/stars/Rushmaster12/MASTER-MD?style=social">
     </a>
-    <a href="https://github.com/DASTAGHIR/PRINCEMD/network/members">
-        <img title="Fork" src="https://img.shields.io/github/forks/DASTAGHIR/PRINCEMD?style=social">
+    <a href="https://github.com/Rushmaster12/MASTER-MD/network/members">
+        <img title="Fork" src="https://img.shields.io/github/forks/Rushmaster12/MASTER-MD?style=social">
     </a>
-    <a href="https://github.com/DASTAGHIR/PRINCEMD/watchers">
-        <img title="Watching" src="https://img.shields.io/github/watchers/DASTAGHIR/PRINCEMD?label=Watching&style=social">
+    <a href="https://github.com/Rushmaster12/MASTER-MD/watchers">
+        <img title="Watching" src="https://img.shields.io/github/watchers/Rushmaster12/MASTER-MD?label=Watching&style=social">
     </a>
 </div>
 
