@@ -102,11 +102,13 @@
 **6. Railway ↓**
 
 **1. Create account on Railway↓**
-   <br>
+   <div align="left">
+    <p align="left">
 <a href='https://railway.app/login' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
 **2. Deploy on Railway↓**
-   <br>
+   <div align="left">
+    <p align="left">
 <a href='https://railway.app/template/jE4mV4?referralCode=RUBiix' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
