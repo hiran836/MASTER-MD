@@ -177,6 +177,13 @@ jobs:
 
 
 
+## MY YT CHANNEL
 
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʀᴜsʜ ᴍᴀsᴛᴇʀ
-> 
+[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@gdgaurav27) 
+ 
+ ### WHATSAPP CHANNLE 👇
+ <p align="left">
+<a href='https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S' target="_blank"><img alt='WhatsApp Channel' src='https://img.shields.io/badge/-WhatsApp Channel-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
+
+
+
