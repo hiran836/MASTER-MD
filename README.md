@@ -43,12 +43,17 @@
 <p align="left">
 <a href='https://sahas-md-pair-web-ibx9.onrender.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=130 height=41/p></a>
 
-    
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>   
 ---
+
  **2.  Deploy To Replit**
 
 <a href="https://replit.com"><img title="MASTER-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 ---
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
+
 **3. Deploy to HEROKU ↓**
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rushmaster12/MASTER-MD)
@@ -61,6 +66,8 @@
 <a href="https://dashboard.render.com/" target="blank"><img align="center" src="https://cdn.ironman.my.id/i/5b21iy.jpg" width="100" height="40" alt="Deploy bot"/></a>
 
 ---
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
 
 ### 𝙍𝙐𝙉 𝙊𝙉 𝙆𝙊𝙔𝙀𝘽
 
@@ -76,6 +83,9 @@
 
 
 ---
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
+
 **5. Deploy to GITHUB**
 
   WORKFLOW CODE
@@ -116,6 +126,10 @@ jobs:
 ---
 
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
 
 ## CREDITS 
 # `Owner👑`
@@ -125,10 +139,27 @@ jobs:
  **[`𝚪𝐔𝐒𝚮-𝚳𝚫𝐒𝚻𝚵𝚪 ☯️`](https://github.com/rushmaster12)**|
 
 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
 ---
+
 ### CREATED BY:
 1. ### RUSH MASTER 
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
+
+
+
 
 
 > ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʀᴜsʜ ᴍᴀsᴛᴇʀ
