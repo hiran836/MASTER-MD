@@ -134,7 +134,7 @@ jobs:
 ## CREDITS 
 # `Owner👑`
 
- <a href="https://github.com/Rushmaster12"><img src="https://github.com/Rushmaster12.png" width="260" height="260" alt=" Malvin King"/></a>
+ <a href="https://github.com/Rushmaster12"><img src="https://github.com/Rushmaster12.png" width="260" height="260" alt=" RUSH MASTER 👑"/></a>
  
  **[`𝚪𝐔𝐒𝚮-𝚳𝚫𝐒𝚻𝚵𝚪 ☯️`](https://github.com/rushmaster12)**|
 
