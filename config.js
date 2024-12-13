@@ -13,5 +13,3 @@ AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
 AUTO_VOICE: "true"
 };
-
-© 𝚸𝚯𝐖𝚵𝚪𝚵𝐃 𝚩𝐘 𝚪𝐔𝐒𝚮 𝚳𝚫𝐒𝚻𝚵𝚪 💪
