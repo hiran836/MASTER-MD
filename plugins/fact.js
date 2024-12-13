@@ -28,5 +28,3 @@ Isn't that interesting? 😄
         return reply("⚠️ An error occurred while fetching a fun fact. Please try again later.");
     }
 });
-
-> ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʀᴜsʜ ᴍᴀsᴛᴇʀ
