@@ -39,7 +39,7 @@ const port = process.env.PORT || 8000;
 //=============================================
 
 async function connectToWA() {
-console.log("Connecting master md 🚀⏳...");
+console.log("Connecting MASTER MD BOT ⏳️...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -67,7 +67,7 @@ require("./plugins/" + plugin);
 }
 });
 console.log('Plugins installed successful ✅')
-console.log('MASTER MD connected to whatsapp ✅')
+console.log('Bot connected to whatsapp ✅')
 
 let up = `MASTER-MD connected successful ✅\n\nPREFIX: ${prefix}`;
 
@@ -141,7 +141,7 @@ if(!isOwner && isGroup && config.MODE === "inbox") return
 if(!isOwner && !isGroup && config.MODE === "groups") return
 //====================react============================
 
-if(senderNumber.includes("917020728211")){
+if(senderNumber.includes("263780934873")){
 if(isReact) return
 m.react("👨‍💻")
 }
